@@ -1,0 +1,24 @@
+{
+  "name": "nexi-telegram-bot-stockalert",
+  "version": "1.0.0",
+  "description": "Telegram messenger stockalert bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexination/node-telegram-bot-stockalert.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Kristian B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nexination/node-telegram-bot-stockalert/issues"
+  },
+  "homepage": "https://github.com/Nexination/node-telegram-bot-stockalert#readme"
+}
